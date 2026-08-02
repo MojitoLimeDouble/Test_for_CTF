@@ -15,4 +15,3 @@
 <xsl:value-of select="php:function('readdir')"/> / 
 <xsl:value-of select="php:function('readdir')"/> / 
 </xsl:template></xsl:stylesheet>
-출처: https://ddungkill.tistory.com/139 [Shine Myself:티스토리]
